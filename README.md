@@ -103,6 +103,7 @@ Following tools are browser extensions that help to protect your wallet.
 - [ChainAbuse](https://www.chainabuse.com/)
 - [ScamAlert](https://scam-alert.io)
 - [CryptoScamDB](https://cryptoscamdb.org/)
+- [CryptoStrapon](https://cryptostrapon.com/) — AI scam detector (60+ signals) + 37 original crypto fraud investigations with on-chain evidence
 - [CryptoScamReport](https://www.reddit.com/r/CryptoScamReport/)
 - [GreySafe](https://greysafe.com/)
 

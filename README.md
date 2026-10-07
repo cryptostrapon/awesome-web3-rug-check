@@ -19,6 +19,7 @@
 - [RugScreen](https://rugscreen.com/Main/Index)
 - [DexAnalyzer](https://www.dexanalyzer.io/analyzer)
 - [De.Fi](https://de.fi/scanner)
+- [Crypto Pull Checker](https://cryptopullcheck.com)
 - [MarketMove](https://app.marketmove.ai/)
 - [BscCheck](https://www.bscheck.eu)
 - [quickintel](https://app.quickintel.io/scanner)
